@@ -11,13 +11,13 @@
 
 - 📝 My Medium: [https://medium.com/@jvduchene](https://medium.com/@jvduchene)
 
-- 💬 Ask me about **Tensorflow and neural nets. I love this stuff.**
+- 💬 Ask me about: **Tensorflow and neural nets. I love this stuff.**
 
-- 📫 How to reach me **jvduchene@gmail.com**
+- 📫 How to reach me: **jvduchene@gmail.com**
 
 - 📄 My resume: [https://docs.google.com/document/d/1jDfy6AGnUWDhrm67lUzli8kJq8eeJfZ7dsp3ryzHABg/edit](https://docs.google.com/document/d/1jDfy6AGnUWDhrm67lUzli8kJq8eeJfZ7dsp3ryzHABg/edit)
 
-- ⚡ Fun fact **I know how to crochet >:)**
+- ⚡ Fun fact: **I know how to crochet >:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
